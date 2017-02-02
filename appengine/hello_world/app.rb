@@ -14,8 +14,8 @@
 
 # [START app]
 require "sinatra"
-
+sleep(5)
 get "/" do
-  "Hello world!"
+  "Hello baby!"
 end
 # [END app]
